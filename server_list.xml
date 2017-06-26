@@ -1,0 +1,8 @@
+<server_list>
+	<server tag="공식서버" address="f/DcRhsKllzWKiwVFFKK7jRfNUYtwbrR/yMYginbCzeIJkxFWet+xMwwUptqjYdn" isloc=false datetransmissiontype=1 port=49 reqparam=false>
+	</server>
+	<server tag="내 서버" address="ePPlrK8AxGZwS/ZFVCw+TK067sqPm/s6HxVMhiqff6c=" isloc=false datetransmissiontype=1 reqparam=true port=49>
+	</server>
+	<server tag="loc server" address="loc" isloc=true datetransmissiontype=3 reqparam=true port=0>
+	</server>
+</sever_list>
