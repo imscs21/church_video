@@ -6,4 +6,4 @@
 	</server>
 	<server tag="loc server" address="loc" isloc="true" datetransmissiontype="3" reqparam="true" port="0">
 	</server>
-</sever_list>
+</server_list>
